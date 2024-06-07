@@ -1,0 +1,42 @@
+Pauta para as aulas de LLP em 11/06
+
+	Aula 1. ver se lançaram as atividades no AVA da S10A03, exercicio 1 
+	 A tabuada
+	 Dai completar o exercicio 2 que é otimizar um codigo. AVA de novo.
+	 eles tem que emitir uma conclusão justificada.
+	 
+	Aula 2. Aplicar a Aula S10A04 e agilizar a S11A01 que tem debate com nota!
+	
+		revisão de laços e condições - já foi explicado anteriormente.
+		começar do slide 5 tudo bem suscinto!
+		apresentar a função divmod()
+			{
+				A função divmod() em Python é utilizada para realizar a divisão de dois números e, ao mesmo tempo, obter o quociente e o resto (também conhecido como módulo). Ela recebe dois argumentos e retorna uma tupla com o quociente e o resto. Aqui está a sintaxe:
+				
+				resultado = divmod(x, y)
+			}
+		exercicio 1 =>> simular caixa eletronico LLP-S10A01-Exerc01
+		exercicio 2 =>> corrigir o código. 
+		Lançar no AVA.
+		
+		Iniciar a S11A01:
+		Fala do poder das estruturas de decisões if elif e else
+		Apresentar os exemplos Sample 0 e Sample 1
+		debater IA e Automações (slide 11) apenas 5 minutos eles gostam de divagar!!!
+		
+		Ao final há trabalho sobre o debate, vale Nota 1 a 10 e é Individual e dar 15 a 20 minutos para a atividade, individual.
+		
+		se der apresentar...
+		https://www.inf.pucrs.br/pinho/PCB/ComandosDeDecisao/Decisao.htm
+		
+	Aula 3. S11A02 tudo!
+	
+		Encerrar a S11A02 e Iniciar a S11A03
+	
+	
+	Aula 4. S11A03 tudo e entrar na S11A04
+	
+
+	
+	
+		
